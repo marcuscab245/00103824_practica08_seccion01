@@ -1,1 +1,2 @@
 # 00103824_practica08_seccion01
+¿Cuál es la diferencia entre autenticación y autorizacion? -- Autorizacion es el proceso donde se verifica la identidad del usuario -- La autenticacion va despues de la autorizacion, determina que puede hacer o a que recursos tiene acceso el usuario ¿Cuál es la función del token JWT en la guía? -- Sirve para autenticar y autorizar al usuario en cada peticion posterior, evitando que tenga que iniciar sesion cada vez
